@@ -12,8 +12,8 @@
 
 
 	HTML5
-  CSS3
-  Javascript
+	CSS3
+	Javascript
 	React
 	C
 	C++
