@@ -2,7 +2,7 @@
 
 ### Jorge Garcia - Full Stack Web Developer
 
-![](https://i.postimg.cc/x1jkNR0n/jorge.jpg)
+![](https://i.postimg.cc/k4B0DDY7/jorge.jpg)
 
 - 👋 Hi i am a  Electronic Engineer
 
