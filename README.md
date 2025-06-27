@@ -1,6 +1,6 @@
 ## My Personal Repository
 
-### Jorge Garcia - Full Stack Web Developer
+### Jorge Garcia - Web Developer
 
 ![](https://i.postimg.cc/tJzpTtxD/fotojg.jpg)
 
